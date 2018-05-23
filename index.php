@@ -1,6 +1,5 @@
 
 <?php
-
-echo phpinfo();
+echo "connecting to db"; 
 echo "\n\n";
 ?>
