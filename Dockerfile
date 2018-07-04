@@ -1,2 +1,2 @@
-FROM docker.io/php
+FROM php
 COPY index.php   /var/www/html/
