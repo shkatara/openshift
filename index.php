@@ -1,9 +1,5 @@
 
 <?php
-echo "connecting to db"; 
-echo "connecting to db"; 
-echo "connecting to db"; 
-echo "connecting to db"; 
-echo "connecting to db"; 
+echo "All the best for exam"; 
 echo "\n\n";
 ?>
