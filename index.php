@@ -1,5 +1,5 @@
 
 <?php
-echo "All the best for exam"; 
+echo "\n Hiiii... I am running on ".gethostname(); 
 echo "\n\n";
 ?>
